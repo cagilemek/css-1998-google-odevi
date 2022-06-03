@@ -1,0 +1,61 @@
+.resim{
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+.aramakismi{
+  background-color:rgb(238, 238, 238);
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+.content {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  padding: 2px;
+}
+
+.sol-alt {
+  background-color: #7EE5DA;
+  width: 37%;
+  height: 75px;
+  margin: 0.15% 0.15%;
+  float: left;
+  padding: 2px;
+}
+
+.orta {
+  background-color: rgb(112, 204, 194);
+  width: 17%;
+  height: 75px;
+  font-size: small;
+  text-align: center;
+  padding: 2px;
+  float: left;
+}
+
+.input {
+  padding-top: 1px;
+  padding-right: 2px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+}
+.sag-alt {
+  background-color: #62B3AA;
+  width: 38.6%;
+  height: 77px;
+  float: left;
+  margin: 0.15%;
+  margin-top: 0.01%;
+  text-align: center;
+  font-size: small;
+  padding: 1px;
+}
+
+.son-yazi{
+  font-size: 13px;
+  text-align: center;
+  width: 90%;
+  padding: 40px
+}
